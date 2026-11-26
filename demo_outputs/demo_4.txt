@@ -1,0 +1,7 @@
+Input: 'From α to ɷ...'
+Version: 1; ECC: L; byte mode; mask: 0
+Character set: ISO-8859-1
+Encoding stopped at index 5: 'α' (U+03B1) is not in ISO-8859-1.
+Successfully encoded prefix (5 bytes): 46 72 6f 6d 20
+Prefix bits: 01000110 01110010 01101111 01101101 00100000
+No complete data codewords, ECC, or matrix were produced.
